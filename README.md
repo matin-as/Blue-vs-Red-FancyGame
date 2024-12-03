@@ -35,3 +35,4 @@ We welcome contributions! If you're interested in improving perfection-boardgaam
 
 ## 📧 Contact
 For feedback, reach out to us at:
+- Email: [mtasad2008@gmail.com](mailto:mtasad2008@gmail.com)
